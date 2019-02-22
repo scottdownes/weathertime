@@ -1,0 +1,29 @@
+{
+  "name": "weathertime",
+  "version": "1.0.0",
+  "description": "sample app for invisible",
+  "main": "app.js",
+  "scripts": {
+    "tsc": "tsc",
+    "prod": "tsc && node ./build/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/scottjdownes"
+  },
+  "keywords": [
+    "interviews"
+  ],
+  "author": "Scott Downes",
+  "license": "ISC",
+  "dependencies": {
+    "@types/xml2js": "^0.4.3",
+    "city-timezones": "^1.0.7",
+    "express": "^4.16.4",
+    "ts-node-dev": "^1.0.0-pre.32",
+    "tsc": "^1.20150623.0",
+    "typescript": "^3.3.3",
+    "xml2js": "^0.4.19",
+    "zipcode-to-timezone": "0.0.9"
+  }
+}
