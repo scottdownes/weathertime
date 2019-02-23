@@ -13,7 +13,7 @@ This is a test app for Invisible Tech. Should allow a user to enter an array of 
 npm run prod 30340 Seattle 37405 36109
 
 #### Limitations
-* I salied past the two hour time limit so there's very little error-handling. Put in some unexpected inputs and it'll probably catch fire.
+* I sailed past the two hour time limit so there's very little error-handling. Put in some unexpected inputs and it'll probably catch fire.
 * I have little experience with TypeScript so I lost a few cycles trying to catch up there.
 
 #### Extra feature
